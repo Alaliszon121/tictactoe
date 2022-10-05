@@ -1,0 +1,5 @@
+C:\Users\isabe\Desktop\TicTacToe.exe
+C:\Users\isabe\Desktop\TicTacToe.dll
+C:\Users\isabe\Desktop\TicTacToe.deps.json
+C:\Users\isabe\Desktop\TicTacToe.runtimeconfig.json
+C:\Users\isabe\Desktop\TicTacToe.pdb
